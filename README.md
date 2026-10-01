@@ -3,7 +3,7 @@
 Site institucional da **Isabella Garcia**, esteticista em Santo André (ABC paulista), com brow lamination, extensão de cílios (volume brasileiro e egípcio), lash lifting, limpeza de pele e Hidragloss.
 
 - **Cliente:** Isabella Garcia
-- **Site publicado:** https://raiugami.github.io/isabella-garcia-estetica/
+- **Site publicado:** https://isabella.imaguiar.com.br/
 - **Instagram:** [@beautyisagarcia](https://www.instagram.com/beautyisagarcia)
 
 ## Sobre o projeto
